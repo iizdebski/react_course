@@ -1,0 +1,116 @@
+Section 18
+
+Video 354. Adding an Auth Form
+
+0:12 - Creation of folder src-containers-Auth - Auth.js
+1:11 - Checkout - ContactData - ContactData.js - just opened. Nothing new. The same logic is taken (just to show).
+1:14 - src-containers-Auth - Auth.js
+The logic of Auth.js is the same as the logic of ContactData.js
+6:28 - App.js - new route is added
+7:01 - components - Navigation - NavigationItems.js
+7:27 - Auth.js
+7:58 - containers-Auth-Auth.CSS IMPORTANT
+8:15 - Auth.js
+
+Video 355. Adding Actions
+new file
+store - actions-auth.js (auth.js is a new file)
+0:25 - store-actions-actionTypes AUTH_START, SUCCESS, FAIL
+0:53 - auth.js
+3:04 - containers-Auth-Auth.js 
+3:11 - store-actions-index.js
+3:34 - containers - Auth - Auth.js
+
+Video 357. Getting start 15:50 - finish till 16:00
+
+Video 357. Adding Sign-In
+
+0:21 - Auth.js
+2:53 - store-actions-auth.js
+3:38 - important - new URL !!!!!!!!!!!!!!
+4:03 - Auth.js 
+
+Video 358. Storing the Token
+
+0:08 - Auth.js
+store - reducers - auth.js (new file)
+4:58 - index.js
+5:25 - reducers - auth.js
+6:46 - store - actions - auth.js
+
+Video 362. Updating the UI Depending on Auth State
+
+0:51 - Navigation - NavigationItems.js - nothing new
+2:05 - hoc - Layout - Layout.js + 
+3:24 - store - reducers - auth.js - nothing new + 
+3:42 - hoc - Layout - Layout.js
+4:45 - Navigation - Toolbar - Toolbar.js +
+5:18 - Navigation - SideDrawer - SideDrawer.js +
+5:31 - Navigation - Toolbar - Toolbar.js - nothing new
+5:50 - Navigation - NavigationItems.js +
+
+Video 363. Adding a Logout Link
+
+0:24 - Navigation - NavigatinItems.js  + 
+3:06 - index.js + 
+3:14 - Auth - Logout - Logout.js +
+4:47 - App.js +
+5:36 - containers - Auth - Logout - Logout.js +
+
+Video 364. Forwarding Unauthenticated Users
+
+0:09 - coponents - Navigation - NavigationItems.js +
+1:01 - containers - Auth - Auth.js +
+3:18 - containers - BurgerBuilder - BurgerBuilder.js + 
+4:03 - components - Burger - BuildControls - BuildControls.js + 
+6:36 - containers - BurgerBuilder - BurgerBuilder.js +
+ 
+Video 365. Redirecting the User to the Checkout Page
+1:04 - store - reducers - burgerBuilder.js +
+2:43 - store - reducers - auth.js +
+3:04 - store - actions - actionTypes +
+3:20 - store - actions - auth.js +
+4:14 - store - reducers - auth.js - 
+5:23 - store - actions - index.js + 
+5:48 - BurgerBuilder - BurgerBuilder.js +
+7:43 - containers - Auth - Auth.js + 
+
+366. Redirecting the User to the Checkout Page
+
+1:52 - store - actions - auth.js +
+12:10 - App.js +
+12:57 - store - actions - index.js +
+13:10 - App.js +
+
+367. Fixing Connect + Routing Errors
+App.js 
+2:59 - store - actions - auth.js +
+
+368. Ensuring App Security - nothing new
+
+369. Guarding Routes
+1:37 - App.js
+
+370. Displaying User Specific Orders
+0:16 - store - reducers - auth.js +
+1:12 - Checkout - ContactData - ContactData.js +
+3:37 - store - actions - order.js +
+5:33 - Orders - Orders.js +
+6:20 - store - actions - order.js -
+7:17 - firebase - Database - Publish
+
+перевірити Auth.js
+
+
+
+
+
+
+
+
+
+
+
+
+
+

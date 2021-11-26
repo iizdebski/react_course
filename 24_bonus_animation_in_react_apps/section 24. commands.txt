@@ -1,0 +1,27 @@
+
+
+npm install react-transition-group --save
+npm update react react-dom
+
+cross
+
+cycling - їзда на ваелосипеді
+cylcle - їхати на велосипедяі
+
+man - men
+woman - women
+
+just  - тільки, як тільки
+already - вже
+yet - ще
+
+I have been to the shops
+
+see saw seen
+leave left left
+tell told told
+go went gone
+do did done
+
+go shopping 
+come came come

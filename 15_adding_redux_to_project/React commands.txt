@@ -1,0 +1,5 @@
+
+Section 15. Adding Redux to our Project
+
+npm install --save redux react-redux
+npm update react react-dom

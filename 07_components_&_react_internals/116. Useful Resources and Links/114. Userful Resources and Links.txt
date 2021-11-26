@@ -1,0 +1,26 @@
+Useful Resources & Links
+Useful Resources:
+
+More on useEffect(): https://reactjs.org/docs/hooks-effect.html
+
+State & Lifecycle: https://reactjs.org/docs/state-and-lifecycle.html
+
+PropTypes: https://reactjs.org/docs/typechecking-with-proptypes.html
+
+Higher Order Components: https://reactjs.org/docs/higher-order-components.html
+
+Refs: https://reactjs.org/docs/refs-and-the-dom.html
+
+Ресурсы, относящиеся к этой лекции
+cmp-deep-dive-01-creation-lifecycle.zip
+cmp-deep-dive-02-updating-lifecycle-props.zip
+cmp-deep-dive-03-updating-lifecycle-state.zip
+cmp-deep-dive-04-finished-useeffect.zip
+cmp-deep-dive-05-shouldcomponentupdate-memo.zip
+cmp-deep-dive-06-aux.zip
+cmp-deep-dive-07-withclass.zip
+cmp-deep-dive-08-finished-hocs.zip
+cmp-deep-dive-09-updating-state.zip
+cmp-deep-dive-10-proptypes.zip
+cmp-deep-dive-11-refs.zip
+cmp-deep-dive-12-finished.zip
