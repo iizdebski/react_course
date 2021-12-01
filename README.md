@@ -9,13 +9,13 @@
 </p>
 
 <p align = "center">
-<img src="https://github.com/iizdebski/react_course/blob/main/31_images/react3.JPG" width="300" height="300"> <img src="https://github.com/iizdebski/react_course/blob/main/31_images/react4.JPG" width="300" height="300">
+<img src="https://github.com/iizdebski/react_course/blob/main/31_images/react3.JPG" width="300" height="200"> <img src="https://github.com/iizdebski/react_course/blob/main/31_images/react4.JPG" width="300" height="300">
 </p>
 
 <p align = "center">
-<img src="https://github.com/iizdebski/react_course/blob/main/31_images/react5.JPG" width="300" height="300"> <img src="https://github.com/iizdebski/react_course/blob/main/31_images/react6.JPG" width="300" height="300">
+<img src="https://github.com/iizdebski/react_course/blob/main/31_images/react5.JPG" width="300" height="200"> <img src="https://github.com/iizdebski/react_course/blob/main/31_images/react6.JPG" width="300" height="300">
 </p>
 
 <p align = "center">
-<img src="https://github.com/iizdebski/react_course/blob/main/31_images/react7.JPG" width="300" height="300"> <img src="https://github.com/iizdebski/react_course/blob/main/31_images/react8.JPG" width="300" height="300">
+<img src="https://github.com/iizdebski/react_course/blob/main/31_images/react7.JPG" width="300" height="200"> <img src="https://github.com/iizdebski/react_course/blob/main/31_images/react8.JPG" width="300" height="300">
 </p>
