@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Resources for Section 9">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/09_reaching_out_of_web_http_ajax/Resources for Section 9/http-01-starting-setup.zip!/" />
+      <root url="jar://$PROJECT_DIR$/09_reaching_out_of_web_http_ajax/Resources for Section 9/http-05-finished.zip!/" />
+      <root url="jar://$PROJECT_DIR$/09_reaching_out_of_web_http_ajax/Resources for Section 9/http-04-after-global-axios.zip!/" />
+      <root url="jar://$PROJECT_DIR$/09_reaching_out_of_web_http_ajax/Resources for Section 9/http-03-after-post-error.zip!/" />
+      <root url="jar://$PROJECT_DIR$/09_reaching_out_of_web_http_ajax/Resources for Section 9/http-02-after-get.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
