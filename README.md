@@ -8,11 +8,11 @@
 * **Redux & Redux Toolkit**
 * **Routing with React Router**
 * **Next.js**
-* **Deploying React Apps** 
+* **React Apps Deployment** 
 * **Authentication / Authorization**
 * **Unit Tests**
 * **Combining React with TypeScript**
-* **Animations**
+* **React Animations**
 
 <p align = "center">
 <img src="https://github.com/iizdebski/react_course/blob/main/31_images/react1.JPG" width="300" height="200"> <img src="https://github.com/iizdebski/react_course/blob/main/31_images/react2.JPG" width="300" height="200">
